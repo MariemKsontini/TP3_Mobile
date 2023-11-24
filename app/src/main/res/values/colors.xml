@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FF483D8B</color> <!-- Dark Slate Blue -->
+    <color name="purple_500">#FF008080</color> <!-- Dark Turquoise -->
+    <color name="purple_700">#FF556B2F</color> <!-- Dark Olive Green -->
+    <color name="teal_200">#FF8B0000</color>   <!-- Dark Red -->
+    <color name="teal_700">#FF3C1414</color>   <!-- Deep Maroon -->
+    <color name="black">#FF2B2B2B</color>       <!-- Very Dark Gray -->
+    <color name="white">#FFFFFFFF</color>       <!-- Indigo -->
+</resources>
